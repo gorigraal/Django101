@@ -1,4 +1,5 @@
 📌 Project Overview
+
 This project is a foundational Django setup designed to demonstrate:
 
 Basic Django project structure
@@ -10,6 +11,7 @@ Integration of static files
 Understanding Django's MVC architecture
 
 🛠 Features
+
 Basic Django project setup
 
 Virtual environment configuration
